@@ -15,8 +15,8 @@ To write a python program to find minimum steps to reach to specific cell in min
 ```
 /*
 Program to implement to find minimum steps to reach to specific cell in minimum moves by knight.
-Developed by: ESHWAR T
-Register Number: 212223230054 
+Developed by: Vignesh M
+Register Number: 212223240176 
 */
 ```
 ```
